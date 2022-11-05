@@ -1,5 +1,5 @@
 # Proje_1-insertion-sort
-
+www.patika.dev
 [22,27,16,2,18,6] -> Insertion Sort
 1. Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
 Algoritma her seferinde dizinin üzerinde ileri doğru ilerleyerek, dizinin bir elemanını alıp geriye doğru elemanlar ile bir bir sıralar ve her bir sıralamasında, eğer sıraladığı elemandan daha küçükse o elemanla yer değiştirerek bir geriye atar.
