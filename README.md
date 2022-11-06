@@ -45,3 +45,5 @@ veri setinin ortasında olduğu için average case kapsamına girer.
 2.Adım	3	7	5	8	2	9	4	15	6
 3.Adım	3	5	7	8	2	9	4	15	6
 4.Adım	3	5	7	8	2	9	4	15	6
+
+www.patika.dev
